@@ -318,12 +318,15 @@ header {
   font-family: Montserrat, sans-serif;
   font-size: 24px;
   font-weight: 700;
-  line-height: 29px; }
+  line-height: 29px;
+  text-align: left;
+   }
 
 .slider-content__text {
   color: #ccc;
   font-weight: 300;
-  line-height: 16px; }
+  line-height: 16px;
+  text-align: left; }
 
 /* Custom, iPhone Retina */
 /* Extra Small Devices, Phones */

@@ -72,7 +72,7 @@ var slide_left1 = document.querySelector('.slider--1 .slide-left'),
         slide_right1.style.display = 'block';
         total_slide1[idx1].style.display = 'none';
         total_slide1[--idx1].style.display = 'block';
-        if (idx1 === 0) {
+        if (idx1 == 0) {
             slide_left1.style.display = 'none';
         }
     });
